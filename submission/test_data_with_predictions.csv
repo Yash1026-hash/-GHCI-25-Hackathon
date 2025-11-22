@@ -1,0 +1,301 @@
+raw_string,amount,target_category_id,target_category,predicted_category_id,predicted_category
+ETSY 986687 PURCHASE,204.36,2,Shopping_General,2,Shopping_General
+BPSERVICESTATION851866,57.78,0,Fuel,0,Fuel
+MARATHON 939033 PURCHASE,73.92,0,Fuel,0,Fuel
+TXN RESTAURANT 237147,13.96,3,Coffee_Dining,3,Coffee_Dining
+NETFLIX 442120,28.18,5,Subscription,5,Subscription
+RESTAURANT332589,17.26,3,Coffee_Dining,3,Coffee_Dining
+NETFLIX 619618 PURCHASE,26.6,5,Subscription,5,Subscription
+YOUTUBE PREMIUM 876543 AUTH,16.73,5,Subscription,5,Subscription
+coffee shop 773004,44.81,3,Coffee_Dining,3,Coffee_Dining
+TXN APPLE MUSIC 616149,23.54,5,Subscription,5,Subscription
+publix 545468,130.39,1,Groceries,1,Groceries
+POWER COMPANY 279160 AUTH,277.47,4,Utilities,4,Utilities
+VALERO001995,50.03,0,Fuel,0,Fuel
+TXN VALERO 052669,34.36,0,Fuel,0,Fuel
+TXN COFFEE SHOP 879097,27.68,3,Coffee_Dining,3,Coffee_Dining
+wegmans 427880,117.84,1,Groceries,1,Groceries
+ebay payment 313185,188.72,2,Shopping_General,2,Shopping_General
+TXN PG&E 435791,297.42,4,Utilities,4,Utilities
+MCDONALDS 656727 AUTH,45.11,3,Coffee_Dining,3,Coffee_Dining
+GAS COMPANY 656787 PURCHASE,124.72,4,Utilities,4,Utilities
+KROGER #585374,108.93,1,Groceries,1,Groceries
+wegmans 086366,98.12,1,Groceries,1,Groceries
+TXN COSTCO WHOLESALE 911830,95.13,1,Groceries,1,Groceries
+GAS COMPANY 617659,226.8,4,Utilities,4,Utilities
+PUBLIX 559036 PURCHASE,118.33,1,Groceries,1,Groceries
+NETFLIX 210861 AUTH,5.73,5,Subscription,5,Subscription
+UTILITY PAYMENT 193303,274.04,4,Utilities,4,Utilities
+ALDI 847209,100.47,1,Groceries,1,Groceries
+TXN BEST BUY #158236,131.83,2,Shopping_General,2,Shopping_General
+WEGMANS 015796 PURCHASE,35.35,1,Groceries,1,Groceries
+SPEEDWAY 868724,20.97,0,Fuel,0,Fuel
+youtube premium 151201,7.22,5,Subscription,5,Subscription
+AMAZON.COM P025909 AUTH,114.49,2,Shopping_General,2,Shopping_General
+pg&e 446921,248.43,4,Utilities,4,Utilities
+TARGET STORE 628476 PURCHASE,143.75,1,Groceries,1,Groceries
+HULU 974683 AUTH,22.21,5,Subscription,5,Subscription
+SUBWAY 199723,46.27,3,Coffee_Dining,3,Coffee_Dining
+UTILITY PAYMENT 832478 PURCHASE,86.9,4,Utilities,4,Utilities
+ETSY 235362 PURCHASE,50.04,2,Shopping_General,2,Shopping_General
+TXN TRADER JOES 266611,119.47,1,Groceries,1,Groceries
+TXN HULU 185650,14.79,5,Subscription,5,Subscription
+EBAYPAYMENT615898,165.37,2,Shopping_General,2,Shopping_General
+TXN EBAY PAYMENT 975402,241.72,2,Shopping_General,2,Shopping_General
+exxon mobil 828465,30.3,0,Fuel,0,Fuel
+nordstrom 169347,68.39,2,Shopping_General,2,Shopping_General
+PHONE BILL 742000 AUTH,155.62,4,Utilities,4,Utilities
+KOHLS 307663,230.3,2,Shopping_General,2,Shopping_General
+PHONE BILL 323910 AUTH,98.9,4,Utilities,4,Utilities
+CITGO GAS 676914 AUTH,53.45,0,Fuel,0,Fuel
+amazon prime 800681,17.21,5,Subscription,5,Subscription
+TXN WALMART.COM 597074,39.25,2,Shopping_General,2,Shopping_General
+7-eleven fuel 936810,35.07,0,Fuel,0,Fuel
+NETFLIX 212312 PURCHASE,25.04,5,Subscription,5,Subscription
+pg&e 404101,166.46,4,Utilities,4,Utilities
+TIMHORTONS023193,25.96,3,Coffee_Dining,3,Coffee_Dining
+TXN SUBWAY 221984,33.77,3,Coffee_Dining,3,Coffee_Dining
+shell retail #225344,33.12,0,Fuel,0,Fuel
+wegmans 202271,149.64,1,Groceries,1,Groceries
+EXXONMOBIL172277,76.08,0,Fuel,0,Fuel
+publix 896993,103.92,1,Groceries,1,Groceries
+TXN CITGO GAS 849882,48.27,0,Fuel,0,Fuel
+NORDSTROM 177844 PURCHASE,229.5,2,Shopping_General,2,Shopping_General
+TXN INTERNET BILL 028301,108.87,4,Utilities,4,Utilities
+DISNEY+ 298698,28.19,5,Subscription,5,Subscription
+ELECTRICCOMPANY662370,175.77,4,Utilities,4,Utilities
+ELECTRIC COMPANY 949431,223.36,4,Utilities,4,Utilities
+valero 329141,20.91,0,Fuel,0,Fuel
+KROGER #756643 PURCHASE,103.45,1,Groceries,1,Groceries
+EBAY PAYMENT 140520 AUTH,23.73,2,Shopping_General,2,Shopping_General
+TXN ARCO 976957,72.86,0,Fuel,0,Fuel
+VALERO 372088,29.43,0,Fuel,0,Fuel
+UTILITY PAYMENT 282880 AUTH,200.99,4,Utilities,4,Utilities
+trader joes 863249,107.33,1,Groceries,1,Groceries
+utility payment 515684,183.46,4,Utilities,4,Utilities
+shell retail #516680,37.1,0,Fuel,0,Fuel
+POWERCOMPANY112557,80.64,4,Utilities,4,Utilities
+AMAZON PRIME 537163,21.52,5,Subscription,5,Subscription
+DISNEY+459776,19.08,5,Subscription,5,Subscription
+CABLE TV 578054,292.37,4,Utilities,4,Utilities
+etsy 240433,41.48,2,Shopping_General,2,Shopping_General
+POWER COMPANY 356960 AUTH,164.07,4,Utilities,4,Utilities
+7-ELEVENFUEL106740,45.59,0,Fuel,0,Fuel
+COFFEE SHOP 406327 PURCHASE,45.5,3,Coffee_Dining,3,Coffee_Dining
+aldi 938531,133.86,1,Groceries,1,Groceries
+valero 520198,31.49,0,Fuel,0,Fuel
+COSTCO WHOLESALE 511261 AUTH,63.6,1,Groceries,1,Groceries
+7-ELEVEN FUEL 829071,67.97,0,Fuel,0,Fuel
+spotify 915570,6.01,5,Subscription,5,Subscription
+SQ *STARBUCKS #678497 AUTH,31.74,3,Coffee_Dining,3,Coffee_Dining
+APPLE MUSIC 454826 PURCHASE,8.39,5,Subscription,5,Subscription
+TXN ARCO 749452,23.59,0,Fuel,0,Fuel
+COSTCO WHOLESALE 386952 PURCHASE,80.39,1,Groceries,1,Groceries
+TARGET.COM 376466,145.31,2,Shopping_General,2,Shopping_General
+target store 414634,119.0,1,Groceries,1,Groceries
+AMAZON PRIME 475653 PURCHASE,25.08,5,Subscription,5,Subscription
+citgo gas 669354,34.07,0,Fuel,0,Fuel
+WEGMANS 356658 PURCHASE,113.15,1,Groceries,1,Groceries
+COFFEE SHOP 945764,25.47,3,Coffee_Dining,3,Coffee_Dining
+apple music 646714,25.65,5,Subscription,5,Subscription
+arco 414918,70.33,0,Fuel,0,Fuel
+whole foods market 039176,73.31,1,Groceries,1,Groceries
+hulu 547107,10.64,5,Subscription,5,Subscription
+INTERNET BILL 922833 AUTH,125.93,4,Utilities,4,Utilities
+HOME DEPOT 958632,260.12,2,Shopping_General,2,Shopping_General
+power company 679354,236.09,4,Utilities,4,Utilities
+BP SERVICE STATION 183515 AUTH,78.5,0,Fuel,0,Fuel
+dunkin 362843,17.38,3,Coffee_Dining,3,Coffee_Dining
+SQ*STARBUCKS#115489,16.05,3,Coffee_Dining,3,Coffee_Dining
+KROGER #826094 PURCHASE,49.73,1,Groceries,1,Groceries
+etsy 090211,54.69,2,Shopping_General,2,Shopping_General
+7-ELEVEN FUEL 185515 PURCHASE,65.7,0,Fuel,0,Fuel
+VALERO 792635,32.36,0,Fuel,0,Fuel
+WATER DEPARTMENT 388142 AUTH,69.22,4,Utilities,4,Utilities
+KOHLS 613627,255.04,2,Shopping_General,2,Shopping_General
+NETFLIX 052295 AUTH,23.95,5,Subscription,5,Subscription
+KROGER #994493 AUTH,59.2,1,Groceries,1,Groceries
+EBAYPAYMENT036706,41.62,2,Shopping_General,2,Shopping_General
+restaurant 243221,17.19,3,Coffee_Dining,3,Coffee_Dining
+HOMEDEPOT773455,134.29,2,Shopping_General,2,Shopping_General
+MCDONALDS 741772,49.5,3,Coffee_Dining,3,Coffee_Dining
+AMAZON.COMP121598,99.79,2,Shopping_General,2,Shopping_General
+ARCO 773736,27.55,0,Fuel,0,Fuel
+RESTAURANT 591746,12.22,3,Coffee_Dining,3,Coffee_Dining
+CHIPOTLE 490392,26.46,3,Coffee_Dining,3,Coffee_Dining
+TXN INTERNET BILL 875067,248.11,4,Utilities,4,Utilities
+CHIPOTLE 006371 PURCHASE,26.5,3,Coffee_Dining,3,Coffee_Dining
+MARATHON388647,20.02,0,Fuel,0,Fuel
+TXN RESTAURANT 269588,35.74,3,Coffee_Dining,3,Coffee_Dining
+TXN VALERO 609832,40.08,0,Fuel,0,Fuel
+KROGER #099278 PURCHASE,49.64,1,Groceries,1,Groceries
+HOME DEPOT 370423,241.77,2,Shopping_General,2,Shopping_General
+TXN CON EDISON 265337,77.73,4,Utilities,4,Utilities
+WATER DEPARTMENT 090270,284.09,4,Utilities,4,Utilities
+7-eleven fuel 100889,34.69,0,Fuel,0,Fuel
+MCDONALDS 793244 AUTH,15.76,3,Coffee_Dining,3,Coffee_Dining
+APPLEMUSIC977099,24.92,5,Subscription,5,Subscription
+NETFLIX883278,17.45,5,Subscription,5,Subscription
+YOUTUBE PREMIUM 854554,20.75,5,Subscription,5,Subscription
+SQ *COFFEE 522158,39.89,3,Coffee_Dining,3,Coffee_Dining
+COSTCO WHOLESALE 993402 AUTH,77.86,1,Groceries,1,Groceries
+SAFEWAY 450249 AUTH,110.31,1,Groceries,1,Groceries
+home depot 512619,168.44,2,Shopping_General,2,Shopping_General
+ELECTRIC COMPANY 349836 AUTH,181.16,4,Utilities,4,Utilities
+COSTCO WHOLESALE 920681 PURCHASE,121.6,1,Groceries,1,Groceries
+KOHLS 633487 AUTH,147.03,2,Shopping_General,2,Shopping_General
+electric company 545041,100.64,4,Utilities,4,Utilities
+PG&E 064038,164.24,4,Utilities,4,Utilities
+TIM HORTONS 535457 AUTH,29.91,3,Coffee_Dining,3,Coffee_Dining
+PUBLIX 161835,31.16,1,Groceries,1,Groceries
+DUNKIN 134248 AUTH,45.62,3,Coffee_Dining,3,Coffee_Dining
+AMAZON.COM P203508,67.51,2,Shopping_General,2,Shopping_General
+HOME DEPOT 826723 PURCHASE,263.48,2,Shopping_General,2,Shopping_General
+SQ *STARBUCKS #859421 AUTH,38.69,3,Coffee_Dining,3,Coffee_Dining
+electric company 495073,213.08,4,Utilities,4,Utilities
+INTERNET BILL 600514 AUTH,157.75,4,Utilities,4,Utilities
+TXN PANERA BREAD 838057,6.16,3,Coffee_Dining,3,Coffee_Dining
+microsoft 365 419847,6.56,5,Subscription,5,Subscription
+UTILITY PAYMENT 806067,273.52,4,Utilities,4,Utilities
+nordstrom 742669,116.35,2,Shopping_General,2,Shopping_General
+TXN RESTAURANT 589015,40.88,3,Coffee_Dining,3,Coffee_Dining
+SPEEDWAY 070003,76.86,0,Fuel,0,Fuel
+YOUTUBE PREMIUM 188495,10.91,5,Subscription,5,Subscription
+ARCO205356,29.64,0,Fuel,0,Fuel
+SQ *COFFEE 776599,34.99,3,Coffee_Dining,3,Coffee_Dining
+SPOTIFY614244,13.7,5,Subscription,5,Subscription
+TXN TIM HORTONS 475380,39.33,3,Coffee_Dining,3,Coffee_Dining
+power company 852319,215.61,4,Utilities,4,Utilities
+HULU 050017 AUTH,26.24,5,Subscription,5,Subscription
+TRADER JOES 902065,98.5,1,Groceries,1,Groceries
+MARATHON 150066,65.47,0,Fuel,0,Fuel
+SQ *STARBUCKS #610759 AUTH,46.55,3,Coffee_Dining,3,Coffee_Dining
+sq *coffee 679875,35.49,3,Coffee_Dining,3,Coffee_Dining
+con edison 063279,140.47,4,Utilities,4,Utilities
+TXN KROGER #360748,58.74,1,Groceries,1,Groceries
+WATER DEPARTMENT 304414,189.73,4,Utilities,4,Utilities
+NORDSTROM 361389 PURCHASE,20.72,2,Shopping_General,2,Shopping_General
+TXN NETFLIX 239862,12.73,5,Subscription,5,Subscription
+adobe creative cloud 967580,10.68,5,Subscription,5,Subscription
+TXN ETSY 865205,150.92,2,Shopping_General,2,Shopping_General
+PUBLIX712344,119.48,1,Groceries,1,Groceries
+TXN COFFEE SHOP 550947,18.19,3,Coffee_Dining,3,Coffee_Dining
+best buy #520441,162.8,2,Shopping_General,2,Shopping_General
+GAS COMPANY 591603 PURCHASE,109.99,4,Utilities,4,Utilities
+sq *coffee 478316,13.62,3,Coffee_Dining,3,Coffee_Dining
+YOUTUBE PREMIUM 012542 AUTH,9.47,5,Subscription,5,Subscription
+EXXONMOBIL041742,28.19,0,Fuel,0,Fuel
+TXN YOUTUBE PREMIUM 926869,21.64,5,Subscription,5,Subscription
+WEGMANS051458,75.38,1,Groceries,1,Groceries
+EXXON MOBIL 721968 PURCHASE,47.26,0,Fuel,0,Fuel
+TXN CHIPOTLE 306706,44.68,3,Coffee_Dining,3,Coffee_Dining
+hulu 989796,26.01,5,Subscription,5,Subscription
+KOHLS431145,30.42,2,Shopping_General,2,Shopping_General
+HULU 155267 AUTH,21.76,5,Subscription,5,Subscription
+TXN SQ *STARBUCKS #190016,7.0,3,Coffee_Dining,3,Coffee_Dining
+SUBWAY 676301 AUTH,42.77,3,Coffee_Dining,3,Coffee_Dining
+EXXON MOBIL 094553,52.08,0,Fuel,0,Fuel
+GAS COMPANY 699802,223.3,4,Utilities,4,Utilities
+phone bill 843451,269.79,4,Utilities,4,Utilities
+adobe creative cloud 535185,25.16,5,Subscription,5,Subscription
+gym membership 467963,11.3,5,Subscription,5,Subscription
+TXN NORDSTROM 641013,174.55,2,Shopping_General,2,Shopping_General
+PANERA BREAD 906262 AUTH,23.66,3,Coffee_Dining,3,Coffee_Dining
+MARATHON 910260 AUTH,42.56,0,Fuel,0,Fuel
+nordstrom 394463,206.87,2,Shopping_General,2,Shopping_General
+YOUTUBE PREMIUM 195519 AUTH,14.55,5,Subscription,5,Subscription
+CONEDISON553903,50.55,4,Utilities,4,Utilities
+WEGMANS 212135,68.15,1,Groceries,1,Groceries
+costco wholesale 805371,72.82,1,Groceries,1,Groceries
+MARATHON 766586 PURCHASE,47.65,0,Fuel,0,Fuel
+gym membership 559800,11.43,5,Subscription,5,Subscription
+WALMART SUPER CENTER 066994 AUTH,61.79,1,Groceries,1,Groceries
+nordstrom 509334,79.52,2,Shopping_General,2,Shopping_General
+MARATHON339609,61.45,0,Fuel,0,Fuel
+CON EDISON 460683 PURCHASE,268.58,4,Utilities,4,Utilities
+MCDONALDS 772338 AUTH,36.27,3,Coffee_Dining,3,Coffee_Dining
+TXN SAFEWAY 457355,127.25,1,Groceries,1,Groceries
+TXN SAFEWAY 340313,124.94,1,Groceries,1,Groceries
+PG&E 833477,167.78,4,Utilities,4,Utilities
+CHIPOTLE949700,33.63,3,Coffee_Dining,3,Coffee_Dining
+SHELL RETAIL #521483 AUTH,42.65,0,Fuel,0,Fuel
+arco 874130,77.69,0,Fuel,0,Fuel
+SQ*COFFEE286780,28.24,3,Coffee_Dining,3,Coffee_Dining
+HOME DEPOT 010736,211.39,2,Shopping_General,2,Shopping_General
+TARGET STORE 163841,76.44,1,Groceries,1,Groceries
+APPLE MUSIC 516545 AUTH,9.01,5,Subscription,5,Subscription
+WHOLE FOODS MARKET 576179,143.82,1,Groceries,1,Groceries
+internet bill 750455,189.01,4,Utilities,4,Utilities
+GYMMEMBERSHIP318392,29.68,5,Subscription,5,Subscription
+WEGMANS 214476 AUTH,89.68,1,Groceries,1,Groceries
+ADOBE CREATIVE CLOUD 220926 PURCHASE,14.49,5,Subscription,5,Subscription
+nordstrom 328770,147.91,2,Shopping_General,2,Shopping_General
+TXN WATER DEPARTMENT 411041,248.3,4,Utilities,4,Utilities
+MICROSOFT365101461,5.5,5,Subscription,5,Subscription
+BP SERVICE STATION 107884,49.92,0,Fuel,0,Fuel
+MACYS053918,280.98,2,Shopping_General,2,Shopping_General
+target store 262000,114.02,1,Groceries,1,Groceries
+wegmans 100091,148.25,1,Groceries,1,Groceries
+home depot 877182,217.98,2,Shopping_General,2,Shopping_General
+TARGET STORE 762363 PURCHASE,46.07,1,Groceries,1,Groceries
+HOME DEPOT 115013,54.56,2,Shopping_General,2,Shopping_General
+NORDSTROM 834762,31.95,2,Shopping_General,2,Shopping_General
+KROGER#871149,135.26,1,Groceries,1,Groceries
+macys 895662,108.39,2,Shopping_General,2,Shopping_General
+aldi 661298,73.55,1,Groceries,1,Groceries
+CON EDISON 408641,93.65,4,Utilities,4,Utilities
+DISNEY+074514,16.67,5,Subscription,5,Subscription
+NORDSTROM239496,16.52,2,Shopping_General,2,Shopping_General
+ELECTRIC COMPANY 636479,65.23,4,Utilities,4,Utilities
+TXN MARATHON 381239,41.23,0,Fuel,0,Fuel
+PHONEBILL348863,240.26,4,Utilities,4,Utilities
+TXN KOHLS 963292,77.43,2,Shopping_General,2,Shopping_General
+amazon prime 848952,7.58,5,Subscription,5,Subscription
+COFFEE SHOP 369736,30.82,3,Coffee_Dining,3,Coffee_Dining
+BEST BUY #597406 PURCHASE,297.71,2,Shopping_General,2,Shopping_General
+TIM HORTONS 134267 PURCHASE,39.44,3,Coffee_Dining,3,Coffee_Dining
+TXN MARATHON 346753,62.53,0,Fuel,0,Fuel
+BESTBUY#648421,153.71,2,Shopping_General,2,Shopping_General
+HULU 195763 AUTH,10.94,5,Subscription,5,Subscription
+GYM MEMBERSHIP 944422 AUTH,23.07,5,Subscription,5,Subscription
+NETFLIX 746068 AUTH,19.29,5,Subscription,5,Subscription
+HOMEDEPOT068672,24.89,2,Shopping_General,2,Shopping_General
+ETSY603181,256.23,2,Shopping_General,2,Shopping_General
+adobe creative cloud 479839,28.8,5,Subscription,5,Subscription
+amazon.com p742625,282.89,2,Shopping_General,2,Shopping_General
+SUBWAY 516639 AUTH,10.99,3,Coffee_Dining,3,Coffee_Dining
+water department 672219,129.57,4,Utilities,4,Utilities
+TXN MCDONALDS 560691,26.86,3,Coffee_Dining,3,Coffee_Dining
+ARCO 458107,55.44,0,Fuel,0,Fuel
+chipotle 004078,46.04,3,Coffee_Dining,3,Coffee_Dining
+HOME DEPOT 503505 PURCHASE,268.64,2,Shopping_General,2,Shopping_General
+TXN CITGO GAS 546322,33.48,0,Fuel,0,Fuel
+SAFEWAY 738204 AUTH,43.7,1,Groceries,1,Groceries
+WALMART.COM323379,81.43,2,Shopping_General,2,Shopping_General
+tim hortons 184546,6.98,3,Coffee_Dining,3,Coffee_Dining
+TXN POWER COMPANY 672292,191.85,4,Utilities,4,Utilities
+WHOLE FOODS MARKET 084037 AUTH,128.42,1,Groceries,1,Groceries
+HULU 996994 PURCHASE,14.21,5,Subscription,5,Subscription
+RESTAURANT 690094,3.14,3,Coffee_Dining,3,Coffee_Dining
+KROGER #318110 AUTH,66.3,1,Groceries,1,Groceries
+COFFEESHOP862543,45.97,3,Coffee_Dining,3,Coffee_Dining
+COFFEE SHOP 102876 AUTH,37.73,3,Coffee_Dining,3,Coffee_Dining
+EXXON MOBIL 640386 PURCHASE,62.82,0,Fuel,0,Fuel
+APPLE MUSIC 260879 AUTH,11.77,5,Subscription,5,Subscription
+WEGMANS039756,76.17,1,Groceries,1,Groceries
+TIM HORTONS 533850 PURCHASE,17.32,3,Coffee_Dining,3,Coffee_Dining
+ELECTRIC COMPANY 396772,88.44,4,Utilities,4,Utilities
+TXN GAS COMPANY 961251,211.48,4,Utilities,4,Utilities
+bp service station 441480,24.0,0,Fuel,0,Fuel
+ARCO 431269,69.92,0,Fuel,0,Fuel
+PG&E 040498,244.45,4,Utilities,4,Utilities
+EXXON MOBIL 152520,51.22,0,Fuel,0,Fuel
+WALMART SUPER CENTER 117583 AUTH,60.55,1,Groceries,1,Groceries
+EBAY PAYMENT 544158 AUTH,196.53,2,Shopping_General,2,Shopping_General
+spotify 961299,22.02,5,Subscription,5,Subscription
+TXN CHEVRON #437721,77.62,0,Fuel,0,Fuel
+KROGER #742998 AUTH,78.1,1,Groceries,1,Groceries
+TIM HORTONS 452133 AUTH,7.24,3,Coffee_Dining,3,Coffee_Dining
+AMAZON PRIME 477486 AUTH,26.41,5,Subscription,5,Subscription
+VALERO 939361 AUTH,48.3,0,Fuel,0,Fuel
+UTILITY PAYMENT 333631 AUTH,161.9,4,Utilities,4,Utilities
