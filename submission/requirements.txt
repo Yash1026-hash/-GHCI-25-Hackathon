@@ -22,3 +22,6 @@ openai>=1.0.0  # Optional: for OpenAI API usage
 
 # Utilities
 tqdm>=4.65.0
+
+# Web UI
+flask>=3.0.0

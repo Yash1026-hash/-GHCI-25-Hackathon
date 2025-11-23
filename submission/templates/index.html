@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - CreditBridge</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i class="fa-solid fa-credit-card"></i>
+                <span>CreditBridge</span>
+            </div>
+
+            <nav>
+                <a href="#" class="nav-item active" data-target="dashboard-view"><i class="fa-solid fa-chart-pie"></i>
+                    Dashboard</a>
+                <a href="#" class="nav-item" data-target="transactions-view"><i class="fa-solid fa-list"></i>
+                    Transactions</a>
+                <a href="#" class="nav-item" data-target="wallets-view"><i class="fa-solid fa-wallet"></i> Wallets</a>
+                <a href="#" class="nav-item" data-target="settings-view"><i class="fa-solid fa-gear"></i> Settings</a>
+            </nav>
+
+            <div class="user-profile">
+                <div class="avatar"><i class="fa-solid fa-user"></i></div>
+                <div class="user-info">
+                    <span class="username">{{ user }}</span>
+                    <a href="/logout" class="logout-link">Logout</a>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Dashboard View -->
+            <div id="dashboard-view" class="view-section active">
+                <header class="top-bar">
+                    <h2>Overview</h2>
+                    <button id="connectWalletBtn" class="btn-connect">
+                        <i class="fa-solid fa-wallet"></i> Connect Wallet
+                    </button>
+                </header>
+
+                <div class="dashboard-grid">
+                    <!-- Manual Entry Card -->
+                    <div class="card input-card">
+                        <h3><i class="fa-solid fa-plus-circle"></i> Quick Categorize</h3>
+                        <form id="transactionForm">
+                            <div class="input-group">
+                                <input type="text" id="rawString" placeholder="Transaction (e.g. Starbucks)" required
+                                    autocomplete="off">
+                                <input type="number" id="amount" placeholder="0.00" step="0.01" required>
+                            </div>
+                            <button type="submit" class="btn-primary">Categorize</button>
+                        </form>
+
+                        <!-- Result Area (Hidden initially) -->
+                        <div id="singleResult" class="single-result hidden">
+                            <div class="result-badge" id="resultCategory">--</div>
+                            <div class="confidence-bar">
+                                <div class="fill" id="confidenceFill"></div>
+                            </div>
+                            <p id="explanationText" class="explanation-text"></p>
+                        </div>
+                    </div>
+
+                    <!-- Stats Card -->
+                    <div class="card stats-card">
+                        <h3>Total Spend</h3>
+                        <div class="amount-display">$<span id="totalSpend">0.00</span></div>
+                        <div class="trend positive">+2.4% this month</div>
+                    </div>
+
+                    <!-- Recent Transactions (Full Width) -->
+                    <div class="card history-card">
+                        <div class="card-header">
+                            <h3>Recent Transactions</h3>
+                            <span class="badge" id="txnBadge">0 items</span>
+                        </div>
+                        <div class="table-container">
+                            <table id="historyTable">
+                                <thead>
+                                    <tr>
+                                        <th>Merchant</th>
+                                        <th>Date</th>
+                                        <th>Category</th>
+                                        <th>Amount</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="empty-state">
+                                        <td colspan="4">No transactions found. Connect wallet to import.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Transactions View -->
+            <div id="transactions-view" class="view-section hidden">
+                <header class="top-bar">
+                    <h2>All Transactions</h2>
+                </header>
+                <div class="card">
+                    <div class="table-container">
+                        <p style="padding: 2rem; text-align: center; color: var(--text-muted);">
+                            <i class="fa-solid fa-list"
+                                style="font-size: 2rem; margin-bottom: 1rem; display: block;"></i>
+                            Full transaction history will appear here.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Wallets View -->
+            <div id="wallets-view" class="view-section hidden">
+                <header class="top-bar">
+                    <h2>Connected Wallets</h2>
+                </header>
+                <div class="dashboard-grid">
+                    <div class="card">
+                        <h3><i class="fa-solid fa-wallet"></i> PhonePe</h3>
+                        <p style="color: var(--text-muted); margin-bottom: 1rem;">Status: <span
+                                style="color: var(--success);">Active</span></p>
+                        <button class="btn-primary"
+                            style="background: var(--bg-dark); border: 1px solid var(--border);">Manage</button>
+                    </div>
+                    <div class="card" style="opacity: 0.5;">
+                        <h3><i class="fa-brands fa-google-pay"></i> Google Pay</h3>
+                        <p style="color: var(--text-muted); margin-bottom: 1rem;">Status: Not Connected</p>
+                        <button class="btn-primary">Connect</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Settings View -->
+            <div id="settings-view" class="view-section hidden">
+                <header class="top-bar">
+                    <h2>Settings</h2>
+                </header>
+                <div class="card" style="max-width: 600px;">
+                    <form>
+                        <div class="form-group" style="margin-bottom: 1.5rem;">
+                            <label style="display: block; margin-bottom: 0.5rem; color: var(--text-muted);">Display
+                                Name</label>
+                            <input type="text" value="{{ user }}">
+                        </div>
+                        <div class="form-group" style="margin-bottom: 1.5rem;">
+                            <label
+                                style="display: block; margin-bottom: 0.5rem; color: var(--text-muted);">Currency</label>
+                            <select
+                                style="width: 100%; padding: 1rem; background: var(--bg-dark); border: 1px solid var(--border); border-radius: 1rem; color: white;">
+                                <option>USD ($)</option>
+                                <option>INR (₹)</option>
+                                <option>EUR (€)</option>
+                            </select>
+                        </div>
+                        <button class="btn-primary">Save Changes</button>
+                    </form>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Loading Modal -->
+    <div id="loadingModal" class="modal hidden">
+        <div class="modal-content">
+            <div class="spinner"></div>
+            <h3>Connecting to PhonePe...</h3>
+            <p>Securely fetching transaction history</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>
